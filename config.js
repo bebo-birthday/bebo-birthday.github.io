@@ -4,5 +4,5 @@ window.GIFT_CONFIG = {
   supabaseAnonKey: 'sb_publishable_bIlVMUh-ePWdCsjO3GSVZg_pkiEREwv',
   giftId: '11111111-1111-4111-8111-111111111111',
   bucket: 'birthday-videos',
-  recipientName: 'your favorite person'
+  recipientName: 'my favorite person'
 };
